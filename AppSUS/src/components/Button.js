@@ -20,8 +20,8 @@ const estilos = StyleSheet.create({
     button:{
         height:55,
         width:"100%",
-        borderRadius:18,
-        backgroundColor:"#997acf",
+        borderRadius:9,
+        backgroundColor:"#634DA1",
         justifyContent:"center",
         alignItems:"center",
         marginVertical:20,

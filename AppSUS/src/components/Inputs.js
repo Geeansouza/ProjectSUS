@@ -59,8 +59,8 @@ const estilos = StyleSheet.create({
         borderBottomColor:COLORS.PurpleDark,
     },
     textInput:{
-        fontWeight:"bold",
-        color:COLORS.white,
+        // fontWeight:"bold",
+        color:COLORS.black,
         flex:1
     },
 
